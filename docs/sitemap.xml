@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.jjuanma.github.io/travel-album/categories/</loc>
+    <loc>https://www.jjuanma.github.io/portugal/</loc>
   </url><url>
-    <loc>https://www.jjuanma.github.io/travel-album/tags/</loc>
+    <loc>https://www.jjuanma.github.io/categories/</loc>
   </url><url>
-    <loc>https://www.jjuanma.github.io/travel-album/</loc>
+    <loc>https://www.jjuanma.github.io/categories/portugal/</loc>
+  </url><url>
+    <loc>https://www.jjuanma.github.io/tags/</loc>
+  </url><url>
+    <loc>https://www.jjuanma.github.io/</loc>
   </url>
 </urlset>
