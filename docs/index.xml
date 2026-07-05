@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Travel Album</title>
-		<link>https://www.jjuanma.github.io/</link>
+		<link>https://www.jjuanma.github.io/travel-album/</link>
 		<description>Recent content on Travel Album</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://www.jjuanma.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://www.jjuanma.github.io/travel-album/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
