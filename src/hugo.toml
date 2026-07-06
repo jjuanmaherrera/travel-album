@@ -1,4 +1,4 @@
-baseURL = 'https://www.jjuanma.github.io'
+baseURL = 'https://jjuanmaherrera.github.io/travel-album/'
 locale = 'en-us'
 title = 'Travel Album'
 theme = 'gallery'
